@@ -1,4 +1,4 @@
-![logo](https://github.com/Auasim/Auasim/blob/main/Banner.png)
+![logo](https://github.com/Auasim/Auasim/blob/main/Auasim.png)
 <h1 align="center">Hi 👋, I'm Auasim</h1>
 <h3 align="center">A passionate Software developer from Jammu and Kashmir</h3>
 - 📫 How to reach me **auasimnajar654@gmail.com**
